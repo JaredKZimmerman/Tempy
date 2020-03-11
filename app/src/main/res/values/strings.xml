@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Temp Convert</string>
+    <string name="help_text">
+        This is an amazing app that can convert a Fahrenheit temperature into a Celsius temperature! 
+        (Or is it centegrade? I get so confused...) But wait, there is more! This outstanding app of
+        unparalleled sophistication can also convert a Celsius temperature into a fahrenheit temperature!
+        Amazing! Truly Amazing!
+    </string>
 </resources>
